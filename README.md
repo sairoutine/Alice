@@ -11,8 +11,6 @@
 
 通常の[Bootstrap](http://getbootstrap.com/)では，日本語のフォント指定や文字サイズは最適とはいえません。"Honoka"はそんなBootstrapをベースに，日本語表示に適したフォント指定や，文字サイズに関するコードを追記したBootstrapテーマの一つです。
 
-"Alice"は"Honoka"を元に、[Ubuntu](https://www.ubuntulinux.jp/)っぽい配色を適用したテーマです。
-
 ## Live Demo
 
  * [http://sairoutine.github.io/Alice/bootstrap-ja.html](http://sairoutine.github.io/Alice/bootstrap-ja.html) (日本語レイアウト)
@@ -32,7 +30,7 @@
 bower install --save-dev Alice#(version)
 ```
 
-``(version)``にはバージョン番号を指定します(ex. ``Alice#1.0.1``)。Aliceの最新バージョン番号は[Relases](https://github.com/sairoutine/Alice/releases)から確認してください。
+``(version)``にはバージョン番号を指定します(ex. ``Alice#1.0.0``)。Aliceの最新バージョン番号は[Relases](https://github.com/sairoutine/Alice/releases)から確認してください。
 
 
 ## Usage
